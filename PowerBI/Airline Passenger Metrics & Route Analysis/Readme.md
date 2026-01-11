@@ -1,3 +1,6 @@
+CLICK HERE TO VIEW PROJECT - https://app.powerbi.com/view?r=eyJrIjoiMzQwNTI5MzItZGU0OS00ZjQ4LWEzMzItOTEwMzhhNzY3NmQ2IiwidCI6Ijk3MmNiNWUxLWIyN2EtNDZhYy1iODYxLTRjMjlhNjY0YTczMyJ9
+
+
 💺 Page 1: Airline Passenger Metrics & Route Analysis Dashboard
 Overview
 This Power BI dashboard focuses on passenger spending, seat class revenue, airline activity, and destination trends. It is tailored for financial and operational analysis in the airline industry.
