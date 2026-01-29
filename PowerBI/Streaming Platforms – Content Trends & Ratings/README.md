@@ -1,4 +1,4 @@
-CLICK HERE TO VIEW PROJECT - https://app.powerbi.com/view?r=eyJrIjoiZGJlYWQzNTYtMDQwMS00N2MyLTg5NDctOTJiZGFkMDMyYmM2IiwidCI6Ijk3MmNiNWUxLWIyN2EtNDZhYy1iODYxLTRjMjlhNjY0YTczMyJ9&pageName=e77473c253e3b83b19f7
+CLICK HERE TO VIEW PROJECT - https://app.powerbi.com/view?r=eyJrIjoiZGY5ZDU3MjUtZmFhNC00NDA5LThjM2QtMmIyZDE4MjlkYTU4IiwidCI6ImRhNjFlMGYwLWFmMWEtNDdiNC1iYWU5LTMwMTFhM2EzMmY1YSJ9&pageName=e77473c253e3b83b19f7
 
 🎬 Page 1: Streaming Platforms – Content Trends & Ratings
 Overview
