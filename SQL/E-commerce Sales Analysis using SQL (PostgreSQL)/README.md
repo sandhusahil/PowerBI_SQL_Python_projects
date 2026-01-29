@@ -1,9 +1,12 @@
 📊 E-commerce Sales Analysis using SQL (PostgreSQL)
+
 🚀 Project Overview
 
 This project simulates a real-world e-commerce analytics use case where raw transactional data is analyzed using SQL (PostgreSQL) to answer critical business questions. The goal is to demonstrate strong fundamentals in data modeling, SQL querying, and business thinking, similar to what is expected from a Data Analyst in industry.
 
 The project follows a business-first approach: instead of random queries, all analysis is driven by clear business questions.
+
+
 
 🧱 Data Model (Star Schema)
 Fact Table
@@ -17,6 +20,8 @@ Dimension Tables
 customers → customer details
 
 products → product and category information
+
+
 
 📌 Business Questions Answered
 
@@ -40,6 +45,8 @@ Top 10 revenue-generating customers
 
 Best-selling products by quantity & revenue
 
+
+
 🧠 Key SQL Concepts Used
 
 INNER JOINs across fact & dimension tables
@@ -56,6 +63,8 @@ Date functions (YEAR, MONTH)
 
 Business-safe filtering (Completed orders only)
 
+
+
 🧪 Tools & Technologies
 
 PostgreSQL
@@ -63,5 +72,3 @@ PostgreSQL
 SQL
 
 GitHub (version control)
-
-Power BI (optional visualization layer)
