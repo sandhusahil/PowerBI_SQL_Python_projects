@@ -6,7 +6,7 @@ This project simulates a real-world e-commerce analytics use case where raw tran
 
 The project follows a business-first approach: instead of random queries, all analysis is driven by clear business questions.
 
-
+_________________________________________________________________________________________________________________________________________________________________
 
 🧱 Data Model (Star Schema)
 Fact Table
@@ -21,7 +21,7 @@ customers → customer details
 
 products → product and category information
 
-
+_________________________________________________________________________________________________________________________________________________________________
 
 📌 Business Questions Answered
 
@@ -45,7 +45,7 @@ Top 10 revenue-generating customers
 
 Best-selling products by quantity & revenue
 
-
+_________________________________________________________________________________________________________________________________________________________________
 
 🧠 Key SQL Concepts Used
 
@@ -63,7 +63,7 @@ Date functions (YEAR, MONTH)
 
 Business-safe filtering (Completed orders only)
 
-
+_________________________________________________________________________________________________________________________________________________________________
 
 🧪 Tools & Technologies
 
