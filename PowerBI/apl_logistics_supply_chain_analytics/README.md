@@ -674,39 +674,6 @@ Future versions of the project could include:
 
 ---
 
-# 📁 Suggested Repository Structure
-
-```text
-apl-logistics-supply-chain-analytics/
-│
-├── README.md
-│
-├── data/
-│   └── APL_Logistics_Cleaned.csv
-│
-├── notebooks/
-│   └── APL_Logistics_Data_Preparation.ipynb
-│
-├── sql/
-│   └── supply_chain_analysis.sql
-│
-├── powerbi/
-│   └── APL_Logistics.pbix
-│
-├── screenshots/
-│   ├── page-1-delivery-performance.png
-│   ├── page-2-delay-risk.png
-│   ├── page-3-shipping-mode.png
-│   └── page-4-regional-market.png
-│
-└── documentation/
-    └── project-notes.md
-```
-
-> If the original dataset is subject to licensing, privacy, or redistribution restrictions, do not upload the raw dataset to a public repository. In that case, include the cleaned/sample data only if redistribution is permitted.
-
----
-
 # 🧠 Skills Demonstrated
 
 This project demonstrates practical experience in:
@@ -767,7 +734,7 @@ Business Insights & Recommendations
 
 # 👤 Author
 
-**Sahil Sandhu**
+**Sahilpreet Singh Sandhu**
 
 B.Tech — Computer Science & Engineering
 
@@ -783,7 +750,7 @@ Data Analytics | Power BI | SQL | Python | Excel
 
 ### GitHub Repository
 
-`https://github.com/sandhusahil/apl-logistics-supply-chain-analytics`
+`https://github.com/sandhusahil/PowerBI_SQL_Python_projects/tree/main/PowerBI/apl_logistics_supply_chain_analytics`
 
 ---
 
