@@ -12,7 +12,7 @@ An end-to-end **Data Analytics and Power BI project** focused on analyzing deliv
 
 ## 🔗 Live Power BI Dashboard
 
-### [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGU1MDM0OGMtODUzMi00Yzc0LWE2N2EtZGY1OGFiYjU0YTRhIiwidCI6ImRhNjFlMGYwLWFmMWEtNDdiNC1iYWU5LTMwMTFhM2EzMmY1YSJ9)
+### [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGU1MDM0OGMtODUzMi00Yzc0LWE2N2EtZGY1OGFiYjU0YTRhIiwidCI6ImRhNjFlMGYwLWFmMWEtNDdiNC1iYWU5LTMwMTFhM2EzMmY1YSJ9&pageName=bfb36dd660e175b989ee)
 
 The interactive dashboard provides four analytical modules:
 
@@ -746,7 +746,7 @@ Data Analytics | Power BI | SQL | Python | Excel
 
 ### Live Power BI Dashboard
 
-[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGU1MDM0OGMtODUzMi00Yzc0LWE2N2EtZGY1OGFiYjU0YTRhIiwidCI6ImRhNjFlMGYwLWFmMWEtNDdiNC1iYWU5LTMwMTFhM2EzMmY1YSJ9)
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGU1MDM0OGMtODUzMi00Yzc0LWE2N2EtZGY1OGFiYjU0YTRhIiwidCI6ImRhNjFlMGYwLWFmMWEtNDdiNC1iYWU5LTMwMTFhM2EzMmY1YSJ9&pageName=bfb36dd660e175b989ee)
 
 ### GitHub Repository
 
