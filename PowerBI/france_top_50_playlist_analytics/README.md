@@ -192,35 +192,6 @@ These figures describe the analyzed dataset and the definitions used in the dash
 - The dataset covers a defined period and may not reflect current playlist patterns.
 - Any business recommendations should be validated with additional evidence before being used for release, localization, or content-compliance decisions.
 
-## 📁 Repository Structure
-
-```text
-france-top-50-playlist-analytics/
-│
-├── README.md
-│
-├── dashboard/
-│   ├── France_Top_50.pbix
-│   ├── France_Top_50.pdf
-│   └── screenshots/
-│
-├── notebooks/
-│   └── data_cleaning.ipynb
-│
-├── data/
-│   └── README.md
-│
-├── documentation/
-│   ├── data_dictionary.md
-│   ├── kpi_definitions.md
-│   └── methodology.md
-│
-└── research-paper/
-    └── README.md
-```
-
-*This is the proposed structure. Add only files that exist and are ready to share. Do not upload private, restricted, or unlicensed source data.*
-
 ## 🚀 How to Explore the Project
 
 1. Clone or download this repository.
