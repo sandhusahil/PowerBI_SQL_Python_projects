@@ -4,7 +4,7 @@
 
 ## 🔗 Live Power BI Dashboard
 
-### [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBhOWE5ZjItMjRjMi00YzBlLWIxZmYtNWVjNzcxZTNlNTRkIiwidCI6ImRhNjFlMGYwLWFmMWEtNDdiNC1iYWU5LTMwMTFhM2EzMmY1YSJ9)
+### [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTAxZjAzOWYtOTU3OS00ZjFkLWE2YjgtODc5M2Y5OTIzNmMyIiwidCI6ImRhNjFlMGYwLWFmMWEtNDdiNC1iYWU5LTMwMTFhM2EzMmY1YSJ9)
 
 ---
 
