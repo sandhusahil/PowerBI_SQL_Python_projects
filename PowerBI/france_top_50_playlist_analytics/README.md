@@ -2,6 +2,12 @@
 
 **Power BI | Python | Data Analytics | Music Industry Insights**
 
+## 🔗 Live Power BI Dashboard
+
+### [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGU1MDM0OGMtODUzMi00Yzc0LWE2N2EtZGY1OGFiYjU0YTRhIiwidCI6ImRhNjFlMGYwLWFmMWEtNDdiNC1iYWU5LTMwMTFhM2EzMmY1YSJ9&pageName=bfb36dd660e175b989ee)
+
+---
+
 ## 📌 Project Overview
 
 This project analyzes France Top 50 playlist data to understand how explicit-content classification, playlist ranking, track popularity, release formats, album structure, and song duration are represented in music chart data.
